@@ -116,7 +116,10 @@ body{
     }
     .box-social{
         height: 60px;
-        margin-bottom: 10px;
+        margin-bottom: 30px;
+    }
+    .box-social img{
+        width: 60px;
     }
     .text{
         margin-top: 10px;
