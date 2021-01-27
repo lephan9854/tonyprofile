@@ -109,20 +109,9 @@ body{
         margin-top: 15px;
     }
 }
-
 @media screen and (max-width: 435px){
     .text{
         margin-left: 10%;
-    }
-    .box-social{
-        height: 60px;
-        margin-bottom: 30px;
-    }
-    .box-social img{
-        width: 60px;
-    }
-    .text{
-        margin-top: 10px;
     }
 }
 
